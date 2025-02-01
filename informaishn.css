@@ -1,0 +1,49 @@
+video {
+  justify-content: start;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url(/winter.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+ }
+header {
+    background-color: #bcd3eb;
+    text-align: center;
+    padding: 20px 0;
+  text-align: center;
+  justify-content: center;
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #00ccff;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+
+
+a {
+  justify-content: start;
+} 
+

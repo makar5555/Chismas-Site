@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-image: url(/winter.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+
+ }
+
+
+  header {
+    background-color: #bcd3eb;
+    padding: 20px 0;
+  justify-content: center;
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #00ccff;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
